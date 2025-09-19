@@ -1,4 +1,5 @@
 # Minimizing incident response time in real-world scenarios using quantum computing
+
 _Manuel A. Serrano, Luis E. Sánchez, Antonio Santos-Olmo, David García-Rosado, Carlos Blanco, Vita Santa Barletta, Danilo Caivano & Eduardo Fernández-Medina_
 
 Datasets and code for paper <https://doi.org/10.1007/s11219-023-09632-6>
